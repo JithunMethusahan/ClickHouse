@@ -69,12 +69,59 @@ Recent meetups
 * [Seattle Meetup](https://luma.com/jsctpwoa) - February 26th, 2026
 * [Melbourne Meetup](https://www.meetup.com/clickhouse-melbourne-user-group/events/312871833/) - February 24th, 2026
 
-
-
-
 ## Recent Recordings
 
 * **Recent Meetup Videos**: [Meetup Playlist](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3iNDUzpY1S3L_iV4nARda_U) Whenever possible recordings of the ClickHouse Community Meetups are edited and presented as individual talks. 
+
+## Contributing
+
+We welcome contributions from the community! ClickHouse is a large project with many ways to contribute.
+
+### Ways to Contribute
+
+- 🐛 **Report bugs** - Found an issue? [Open a bug report](https://github.com/ClickHouse/ClickHouse/issues/new?template=bug-report.yml)
+- 💡 **Suggest features** - Have an idea? [Share it with us](https://github.com/ClickHouse/ClickHouse/issues/new?template=feature-request.yml)
+- 📝 **Improve documentation** - Help make our docs better at [clickhouse.com/docs](https://clickhouse.com/docs)
+- 💻 **Write code** - Submit bug fixes or new features via pull requests
+- 🧪 **Write tests** - Improve test coverage and reliability
+- 🌍 **Translate** - Help make ClickHouse accessible globally
+
+### Getting Started
+
+1. Check out [Good First Issues](https://github.com/ClickHouse/ClickHouse/labels/good%20first%20issue)
+2. Join our [Community Channels](#community)
+3. Read the [Development Documentation](https://clickhouse.com/docs/en/development/developer-instruction)
+4. Fork the repository and start coding!
+
+### Development Setup
+```bash
+# Clone the repository
+git clone https://github.com/ClickHouse/ClickHouse.git
+cd ClickHouse
+
+# Follow detailed setup instructions:
+# https://clickhouse.com/docs/en/development/build
+```
+
+For detailed build and development instructions, see the [Developer Guide](https://clickhouse.com/docs/en/development/developer-instruction).
+
+### Community
+
+- **Slack**: [Join ClickHouse Slack](https://clickhouse.com/slack) - Real-time chat with ~4,000 users
+- **Telegram**: [ClickHouse English](https://t.me/clickhouse_en) - Active Telegram community
+- **Stack Overflow**: [clickhouse tag](https://stackoverflow.com/questions/tagged/clickhouse) - Technical Q&A
+- **YouTube**: [ClickHouse YouTube](https://www.youtube.com/@ClickHouseDB) - Videos, tutorials, and webinars
+- **Blog**: [ClickHouse Blog](https://clickhouse.com/blog) - Articles, announcements, and updates
+- **Meetups**: [ClickHouse Events](https://clickhouse.com/company/events) - Join local meetups worldwide
+
+### Questions?
+
+- Browse [ClickHouse Documentation](https://clickhouse.com/docs)
+- Ask in [Slack](https://clickhouse.com/slack) or [Telegram](https://t.me/clickhouse_en)
+- Check [GitHub Discussions](https://github.com/ClickHouse/ClickHouse/discussions)
+- Search [existing issues](https://github.com/ClickHouse/ClickHouse/issues)
+
+We look forward to your contributions! 🚀
 
 ## Interested in joining ClickHouse and making it your full-time job?
 
